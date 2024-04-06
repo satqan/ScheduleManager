@@ -21,16 +21,10 @@ Database Visualizer [link](https://gh.atlasgo.cloud/explore/0b60aa15
 
 ## Installation
 
-Create new directory:
-
-```shell
-$ mkdir ScheduleManager && cd ScheduleManager
-```
-
 Clone this repository:
 
 ```shell
-$ git clone git@github.com:satqan/ScheduleManager.git && cd ScheduleManager/core
+$ git clone git@github.com:satqan/ScheduleManager.git && cd ScheduleManager
 ```
 
 Build and Start Docker containers:
